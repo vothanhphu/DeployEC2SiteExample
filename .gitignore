@@ -3,3 +3,5 @@
 ################################################################################
 
 /EC2LinuxTest/.vs/EC2LinuxTest
+/EC2LinuxTest/bin/Debug/netcoreapp3.1
+/EC2LinuxTest/obj
